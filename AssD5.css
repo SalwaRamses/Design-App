@@ -1,0 +1,247 @@
+.perant{
+   
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    background-color: antiquewhite;
+    
+}
+.div1{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    column-gap: 500px;
+    margin-top: 20px;
+}
+
+#logo{
+    width: 60%;
+    height: 60%;
+}
+#but1{
+    width: 80%;
+   height: 80%;
+   
+    background-color: black;
+    color: beige;
+}
+.div2{
+    text-align: center;
+}
+.cards{
+    margin-top: 30px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    column-gap: 5px;
+    align-items: center;
+    justify-content: center;
+
+}
+.card1{
+    width: 20%;
+    height: 170px;
+    background-color:purple ;
+    display: flex;
+    flex-direction: column;
+    row-gap: 50px;
+    justify-content: center;
+    align-items: center;
+}
+
+.p{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    column-gap: 5px;  
+  
+
+}
+.p2{
+    width: 100%;
+    height: 100%; 
+    background-color: chocolate;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;  
+
+}
+#gr{
+    width: 30%;
+    height: 50%;
+    margin-left: 150px;
+    
+}
+#grl{
+    margin-right: 150px;
+    color: beige;
+
+}
+.card2{
+    width: 20%;
+    height: 170px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 5px;
+    justify-content: center;
+    align-items: center;
+    
+}
+#ill{
+    width: 20%;
+    height: 50%;
+    margin-left: 170px;
+  
+}
+#il{
+    margin-right: 100px;
+    color: beige;
+    
+}
+#ui{
+    width: 20%;
+    height: 50%;
+    margin-left: 100px;
+}
+#u{
+    margin-right: 100px;
+    color: beige;
+
+}
+#app{
+    width: 20%;
+    height: 50%;
+    margin-left: 100px;
+}
+#d{
+    margin-right: 100px;
+    color: beige;
+}
+
+.ch1{
+    width: 50%;
+    height:85px;
+    background-color: orange;
+}
+.ch2{
+    width: 50%;
+    height:85px;
+    background-color:coral;
+}
+
+.card3{
+    width: 20%;
+    height: 170px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 5px;
+}
+.up{
+    width: 100%;
+    height:85px;
+    background-color: rgb(0, 128, 58);
+    color: beige;
+
+}
+#up{
+    width: 20%;
+    height: 50%;
+    margin-left: 170px;
+  margin-top: 5px;
+}
+.down{
+    width: 100%;
+    height:85px;
+    background-color: rgb(35, 4, 65);
+    color: beige;
+}
+#down{
+    width: 20%;
+    height: 50%;
+    margin-left: 170px;
+  margin-top: 5px;
+}
+.div3{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    column-gap: 20px;
+}
+#photo{
+    width: 70%;
+    height: 200px;
+}
+.divAmy{
+    width: 30%;
+    text-align: left;
+
+}
+.but2{
+    background-color: orange;
+    padding:5% ;
+    color: beige;
+    border-radius: 30px;
+}
+#label3{
+    margin-top: 50px;
+    display: flex;
+}
+.imgs{
+    width:fit-content;
+    display: flex;
+    flex-direction: row;
+    
+    justify-content: center;
+
+}
+#img1{
+    width: 35%;
+    height: 200px;
+}
+#img2{
+    width: 30%;
+    height: 200px;
+}
+#img3{
+    width: 35%;
+    height: 200px;
+}
+.x{
+    margin-top: 20px;
+    border-radius: 30px;
+    background-color: black;
+}
+.div5{
+    width: 80%;
+    height: 80%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    column-gap: 200px;
+    color: beige;
+    margin-top: 20px;
+    padding: 20px;
+    
+}
+#but3{
+    background-color: orange;
+    padding:5% ;
+    color: beige;
+    border-radius: 30px;
+    width: 100%;
+    height: 100;
+
+}
